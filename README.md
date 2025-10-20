@@ -31,7 +31,6 @@ This repository aligns with Salesforce’s **Responsible Agentic AI Principles**
 - **Empowerment** – Keep humans in the loop for critical decisions  
 - **Sustainability** – Use efficient, task-optimized models (e.g., xLAM, xGen-Sales)
 
-Refer to the [Salesforce Trust Layer documentation](https://help.salesforce.com/s/articleView?id=sf.genie_trust_layer.htm&type=5) for details.
 
 ---
 
